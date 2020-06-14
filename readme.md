@@ -8,7 +8,5 @@ I haven't figured out a way to get cuda installed yet. Right now, I'm going thro
 
 ## Instructions
 
-I still haven't gotten CUDA working, but I am currently trying this method:
-
-1. Download the local runfile for ubuntu 18.04 from the [nvidia site](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=runfilelocal)
+As of Cuda 10.2.89 440.33.01, you can simply download the local runfile for ubuntu 18.04 and install. Newer versions of cuda have not been tested. Most recent kernel tested is 5.5.0
 
